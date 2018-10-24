@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
+MERGED from [com.android.support:support-v13:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/4c64079af99aa6f708319c6d8a403917/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c6c89762ca0dabe9d80f5661c50044b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f4fd2bbd4a3604bcecbb61f97f0d808c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7b24a25e528613bc89cda11bfe8f0311/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/130d552fa46447ffdd1e1da288ad170b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c6cb5b65764ee0419f0f98f2fada7221/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/51262bca307648510b9fdb82a12b48e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/a8ed4899aba37ec7bbad4193dc4421aa/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cffc209df1ead170de148c75cefee83d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5dcc64fe140d50b93f30e5b1bbad1316/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fea89d3823ee55881c900789beab6656/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/873b4d58039eaa791dc9cd23c1893233/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3883fa8e36d88c062b518e5e011b1ea5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a01d026910b6494b0f70e7f7e85978b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b9fff7bb64c7cea47e993e71e268999d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bead7346f565ea92b7a2ef3c20e8ae3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/c1e559f921495c9e145706bb2569aad5/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0cce88e8b2bf5b6706df49a792776d6e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/768a92df326b286d20482cebd2e4da77/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bfe0768516076870bfa985d319885f62/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/54d89450836c0d6f43e83acdc63d1bcf/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-50:12
+	package
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:3:5-36
+	android:versionName
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:12:5-48:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/a8ed4899aba37ec7bbad4193dc4421aa/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/a8ed4899aba37ec7bbad4193dc4421aa/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/c1e559f921495c9e145706bb2569aad5/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/c1e559f921495c9e145706bb2569aad5/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:13:9-36
+	android:theme
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:19:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:27:9-39:20
+	android:parentActivityName
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:29:13-65
+	android:launchMode
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:28:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:31:13-35:29
+	tools:ignore
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:31:28-58
+action#android.intent.action.VIEW
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:33:27-73
+data
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:34:17-100
+	android:mimeType
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:34:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:36:13-38:59
+	android:value
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:38:17-56
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:37:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:41:9-42:40
+	android:exported
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:41:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:44:9-46:40
+	android:authorities
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:45:13-56
+	android:exported
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml:44:19-53
+uses-sdk
+INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/4c64079af99aa6f708319c6d8a403917/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/4c64079af99aa6f708319c6d8a403917/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c6c89762ca0dabe9d80f5661c50044b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c6c89762ca0dabe9d80f5661c50044b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f4fd2bbd4a3604bcecbb61f97f0d808c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f4fd2bbd4a3604bcecbb61f97f0d808c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7b24a25e528613bc89cda11bfe8f0311/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7b24a25e528613bc89cda11bfe8f0311/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/130d552fa46447ffdd1e1da288ad170b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/130d552fa46447ffdd1e1da288ad170b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c6cb5b65764ee0419f0f98f2fada7221/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c6cb5b65764ee0419f0f98f2fada7221/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/51262bca307648510b9fdb82a12b48e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/51262bca307648510b9fdb82a12b48e7/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/a8ed4899aba37ec7bbad4193dc4421aa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/a8ed4899aba37ec7bbad4193dc4421aa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cffc209df1ead170de148c75cefee83d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cffc209df1ead170de148c75cefee83d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5dcc64fe140d50b93f30e5b1bbad1316/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5dcc64fe140d50b93f30e5b1bbad1316/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fea89d3823ee55881c900789beab6656/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fea89d3823ee55881c900789beab6656/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/873b4d58039eaa791dc9cd23c1893233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/873b4d58039eaa791dc9cd23c1893233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3883fa8e36d88c062b518e5e011b1ea5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3883fa8e36d88c062b518e5e011b1ea5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a01d026910b6494b0f70e7f7e85978b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a01d026910b6494b0f70e7f7e85978b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b9fff7bb64c7cea47e993e71e268999d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b9fff7bb64c7cea47e993e71e268999d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bead7346f565ea92b7a2ef3c20e8ae3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bead7346f565ea92b7a2ef3c20e8ae3d/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/c1e559f921495c9e145706bb2569aad5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/ashu/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/c1e559f921495c9e145706bb2569aad5/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0cce88e8b2bf5b6706df49a792776d6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0cce88e8b2bf5b6706df49a792776d6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/768a92df326b286d20482cebd2e4da77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/768a92df326b286d20482cebd2e4da77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bfe0768516076870bfa985d319885f62/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bfe0768516076870bfa985d319885f62/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/54d89450836c0d6f43e83acdc63d1bcf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/ashu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/54d89450836c0d6f43e83acdc63d1bcf/AndroidManifest.xml:20:5-44
+INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/ashu/Desktop/xyzReader/XYZReader/src/main/AndroidManifest.xml

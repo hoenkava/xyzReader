@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ashu/Desktop/xyzReader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/ashu/Desktop/xyzReader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,36",
+                        "endColumns": "57,51",
+                        "endOffsets": "141,83"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "364,422",
+                        "endColumns": "57,51",
+                        "endOffsets": "417,469"
+                    }
+                },
+                {
+                    "source": "/home/ashu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7b24a25e528613bc89cda11bfe8f0311/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "91,161,225,296",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "156,220,291,359"
+                    }
+                },
+                {
+                    "source": "/home/ashu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c6c89762ca0dabe9d80f5661c50044b3/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "474",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "651"
+                    }
+                },
+                {
+                    "source": "/home/ashu/Desktop/xyzReader/XYZReader/src/main/res/values-land/bools.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "35",
+                        "endOffsets": "86"
+                    }
+                }
+            ]
+        }
+    ]
+}
